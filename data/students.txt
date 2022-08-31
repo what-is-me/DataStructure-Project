@@ -1,0 +1,1837 @@
+207879 Michael-Howard cs female 2003 2020
+automatic-control-system 87.1 Amanda-Jones room-208
+basis-of-software-technique 61.0 Sean-Lara room-112
+college-english 65.5 Antonio-Wiggins room-610
+lab-of-general-physics 75.7 Jennifer-Howell room-310
+mechanic-design 89.0 Carol-Jones room-304
+metalworking-practice 80.8 Pamela-Olsen room-507
+microcomputer-control-technology 70.5 Dana-Hawkins-DVM room-207
+microwave-technique 65.3 Nathan-Miller room-611
+operational-research 77.0 Katrina-Swanson room-403
+principle-of-microcomputer 97.4 Lisa-Flores room-206
+principle-of-sensing-device 97.4 Scott-Howell room-407
+null 0 null null
+activity-2 1
+class-meeting-1 2
+class-meeting-2 1
+null 0
+376247 Vicki-Holt cs male 2000 2020
+principle-of-marxism 97.6 Kristy-Cooper room-907
+null 0 null null
+activity-1 3
+activity-2 3
+activity-3 2
+class-meeting-3 2
+null 0
+603594 Nicholas-Hawkins cs male 2003 2020
+advanced-mathematics 79.4 Samantha-Burns room-306
+automatic-control-system 82.1 James-Dalton room-700
+circuit-measurement-technology 63.4 Robert-Jackson room-807
+computer-interface-technology 67.8 Elaine-Guzman-MD room-609
+digital-image-processing 75.3 Laura-Williams room-909
+fundamentals-of-law 61.1 Misty-Yu room-404
+general-physics 85.4 Michael-Reed room-201
+graduation-thesis 75.0 Ronald-Sullivan room-408
+mechanic-design 85.0 Jessica-Stevens room-705
+microwave-technique 84.0 John-Fuller room-107
+principle-of-communication 69.5 Alyssa-Ramsey room-107
+principle-of-marxism 85.8 Jeffrey-Anderson room-406
+principle-of-microcomputer 85.2 Michelle-Martinez room-110
+principle-of-single-chip-computer 76.0 David-Hickman room-105
+python 89.4 Jennifer-Sanchez room-209
+satellite-communications 72.7 Russell-Tyler room-707
+specialty-english 98.5 Daniel-Conrad-Jr. room-412
+television-operation 66.6 Kimberly-Hall room-202
+null 0 null null
+activity-1 2
+activity-2 2
+class-meeting-3 3
+null 0
+759397 Gina-Dixon cs female 2001 2020
+analogical-electronics 90.3 Robert-Becker room-411
+digital-image-processing 85.5 Joshua-Prince room-602
+experiment-of-college-physics 65.9 Erica-Nelson room-609
+null 0 null null
+activity-1 3
+class-meeting-1 2
+activity-3 1
+activity-2 3
+null 0
+73643 Eric-Stephens cs female 1999 2020
+microwave-technique 64.8 Sheila-Barrett room-710
+optimum-control 82.1 Darrell-Gallagher room-801
+null 0 null null
+activity-3 3
+class-meeting-2 1
+activity-1 2
+activity-2 3
+null 0
+109914 Lisa-Davidson cs male 1999 2020
+economy-of-capitalism 62.9 Jesus-Ray room-711
+electrical-engineering-practice 85.8 Brenda-Nelson room-912
+introduction-to-reliability-technology 69.1 Mary-Bennett room-707
+lab-of-general-physics 70.7 Thomas-Gill room-701
+python 79.7 Toni-Blackburn room-303
+semiconductor-converting-technique 74.4 Gail-Rojas-MD room-806
+null 0 null null
+class-meeting-3 1
+activity-3 1
+activity-1 3
+activity-2 2
+null 0
+163900 John-Ruiz cs male 1998 2020
+analogical-electronics 84.1 Mitchell-Williamson room-909
+auto-measurement-technique 78.4 Sarah-Perez room-904
+college-english 78.0 Kathryn-Wang room-111
+digital-image-processing 60.5 Charles-Brown room-303
+electromagnetic-fields---magnetic-waves 64.8 Casey-Glass-II room-212
+graduation-thesis 76.9 Elizabeth-Butler room-110
+linear-algebra 74.8 Francisco-Good room-409
+semiconductor-converting-technique 72.0 Reginald-Jones room-702
+null 0 null null
+activity-1 2
+activity-3 2
+activity-2 3
+class-meeting-2 3
+null 0
+47991 Samuel-Reed cs female 2002 2020
+analogical-electronics 98.4 Douglas-Wilcox room-811
+automatic-control-system 95.8 Katherine-Hayes room-402
+basis-of-software-technique 60.9 Brandon-Preston room-600
+circuitry 66.3 Robert-Jefferson room-904
+college-physics 76.8 Elizabeth-Williams room-607
+digital-electronics 88.3 Shawn-Perez room-703
+economy-of-capitalism 76.2 Zachary-Wilson room-901
+fiber-optical-communication-system 99.3 Carla-Williams room-312
+functions-of-complex-variables-integral-transformations 77.2 Christopher-Johnson room-803
+general-physics 87.1 Lance-Jimenez room-300
+industrial-enterprise-management 85.9 Duane-Cole room-107
+linear-algebra 61.7 Deborah-Martinez room-707
+microcomputer-control-technology 86.6 Cindy-Castaneda room-211
+microwave-technique 96.2 Marcus-Lawrence room-305
+military-theory 92.9 Rhonda-Matthews room-704
+operational-research 97.1 Jaime-Stone room-107
+principle-of-communication 70.7 Russell-Benson room-904
+principle-of-marxism 84.4 Jacob-Nguyen room-106
+principle-of-single-chip-computer 64.4 Tracie-Herman room-610
+probability-theory-stochastic-process 91.8 Isabel-Barnes room-402
+pulse---numerical-circuitry 61.5 Angel-Ramos-PhD room-102
+null 0 null null
+activity-2 1
+class-meeting-3 2
+activity-1 2
+null 0
+59386 Kim-Ayers cs male 1999 2020
+basis-of-software-technique 63.3 Rebecca-Sanchez room-907
+circuitry 82.3 Nicholas-Davenport room-201
+college-english-test-(band6) 95.1 Misty-Curry room-704
+principle-of-marxism 88.6 Gary-Klein room-801
+semiconductor-converting-technique 73.6 Lisa-Fox-DDS room-604
+null 0 null null
+class-meeting-2 2
+activity-2 3
+activity-1 3
+class-meeting-1 3
+class-meeting-3 3
+null 0
+68103 Pamela-Rivera cs female 1998 2020
+computational-method 62.7 Joyce-Ramos room-704
+digital-electronics 68.0 Shari-Martinez room-808
+electrical-engineering-practice 99.3 Kathleen-Tyler room-503
+experiment-of-microcomputer 94.2 Monica-Wheeler room-904
+information-searches 69.9 James-Wilson room-409
+lab-of-general-physics 63.3 Melvin-Bowman room-710
+linear-algebra 82.3 Andrew-Reed room-806
+mechanic-design 80.7 Ms.-Haley-Jacobs room-705
+microwave-technique 93.0 Daniel-Nelson room-204
+satellite-communications 72.0 Nicole-Ramos room-612
+null 0 null null
+activity-1 1
+class-meeting-3 1
+null 0
+79589 Pamela-Walker cs female 2000 2020
+principle-of-communication 65.2 Julian-Perez room-503
+null 0 null null
+activity-1 1
+class-meeting-2 3
+activity-2 1
+class-meeting-1 2
+null 0
+100570 Victor-Rodriguez cs female 2002 2020
+advanced-mathematics 99.6 Aaron-Fletcher room-107
+analogical-electronics 73.7 Abigail-Cowan room-208
+automatic-control-theory 87.2 Sharon-Davis room-807
+college-english 71.5 Brandon-Carlson room-804
+college-physics 87.6 Luis-Bishop room-804
+computer-interface-technology 87.7 Danny-Clark room-505
+digital-electronics 92.3 Thomas-Martin room-202
+economy-of-capitalism 93.8 Kaitlyn-Jenkins room-509
+experiment-of-college-physics 84.6 John-Shaw room-502
+experiment-of-microcomputer 73.8 Wanda-Pollard room-112
+functions-of-complex-variables-integral-transformations 82.6 Jeremy-Gallagher room-612
+fundamentals-of-law 70.1 Christine-Velez room-512
+industrial-enterprise-management 96.5 Melinda-Rodriguez room-509
+mechanical-graphing 61.8 Bobby-Craig room-801
+principle-of-microcomputer 87.3 Anthony-Silva room-702
+semiconductor-converting-technique 93.5 Matthew-Russell room-503
+signal-linear-system 84.0 Dawn-Obrien room-809
+specialty-english 89.4 Shane-Taylor room-111
+theory-of-circuitry 60.7 Debra-Howard room-910
+null 0 null null
+class-meeting-1 2
+null 0
+102975 Daniel-Shaffer cs female 2002 2020
+advanced-mathematics 99.4 Danny-Wilson room-307
+algorithmic-language 91.4 Nicholas-Warner-MD room-810
+electrical-engineering-practice 83.0 Jeremy-Webb room-506
+electromagnetic-fields---magnetic-waves 70.5 Susan-Munoz room-507
+fiber-optical-communication-system 95.8 James-Cisneros room-809
+graduation-thesis 76.9 Diana-Rogers room-910
+lab-of-general-physics 66.6 James-Douglas room-708
+linear-algebra 94.0 Richard-Harrison room-202
+math 70.3 Nicholas-Moore room-902
+mechanical-graphing 90.0 Alicia-Jones-DDS room-305
+mechanic-design 60.0 Christopher-Jackson room-407
+operational-research 94.4 Cameron-Williamson room-207
+principle-of-single-chip-computer 91.9 Christian-Melton room-203
+python 84.9 Zachary-Davis room-706
+semiconductor-converting-technique 83.6 Jennifer-Mccormick room-305
+specialty-english 80.8 Michael-Harris room-702
+television-operation 87.1 Lauren-Contreras room-409
+theory-of-circuitry 90.9 David-Larson room-602
+null 0 null null
+activity-2 3
+class-meeting-2 3
+activity-1 3
+activity-3 3
+class-meeting-1 3
+null 0
+117544 Jennifer-Arnold cs male 1999 2020
+advanced-mathematics 86.2 Jason-Gutierrez room-109
+algorithmic-language 69.6 Ms.-Sarah-Ellis room-807
+analogical-electronics 98.8 Sydney-Moore-MD room-201
+automatic-control-theory 66.5 Kayla-Johnson room-805
+basis-of-software-technique 90.3 Janet-Brown room-709
+college-english-test-(band4) 69.9 Megan-Jones room-711
+college-physics 99.6 Rodney-Lewis room-706
+c-language 98.6 Erin-Wu room-907
+digital-image-processing 77.1 Monique-Davis room-912
+electrical-engineering-practice 64.4 Cameron-Johnson room-210
+experiment-of-microcomputer 94.2 Melissa-Allen room-611
+fiber-optical-communication-system 77.1 Eddie-Oliver room-303
+functions-of-complex-variables-integral-transformations 69.2 Michael-Alvarez room-400
+lab-of-general-physics 90.8 Joshua-Williams room-207
+metalworking-practice 99.4 Patrick-Sanchez room-504
+microcomputer-control-technology 99.0 Kelly-Combs room-806
+optimum-control 88.0 Gregory-Hanson room-407
+principle-of-mechanic 62.9 Jacqueline-Lopez room-911
+principle-of-sensing-device 74.5 Ronald-Martinez room-405
+probability-theory-stochastic-process 92.4 Mark-Cole room-206
+procedure-control 81.3 Kirk-Padilla-DVM room-910
+pulse---numerical-circuitry 70.8 Michael-Warren room-203
+python 67.6 Robert-Faulkner room-707
+semiconductor-converting-technique 70.7 Erik-Smith room-800
+signal-linear-system 79.6 Jennifer-Cooper-MD room-507
+theory-of-circuitry 93.2 Latoya-Riley room-209
+null 0 null null
+class-meeting-2 1
+activity-2 2
+activity-1 1
+activity-3 2
+null 0
+138671 Donna-Smith cs female 1999 2020
+advanced-mathematics 74.3 Robert-Alvarez room-811
+automatic-control-system 68.8 Joanne-Martin room-803
+automatic-control-theory 96.4 Timothy-Patton room-303
+circuitry 81.4 Katherine-Perez room-905
+college-english 79.3 Michelle-Walton room-307
+digital-signal-processing 71.4 Michael-Smith room-204
+experiment-in-electronic-circuitry 75.1 Jeremy-Sawyer room-606
+graduation-thesis 61.2 Mariah-Martin room-101
+mechanical-graphing 72.0 Edward-Mueller room-109
+microcomputer-control-technology 75.4 Pam-Phillips room-511
+microwave-technique 61.8 Tiffany-Moore room-107
+military-theory 76.3 John-Mills room-508
+principle-of-sensing-device 90.1 Anthony-Smith room-411
+procedure-control 81.7 Robert-Brown room-801
+pulse---numerical-circuitry 81.8 George-Sullivan room-412
+satellite-communications 76.5 Jill-Johnson room-100
+semiconductor-converting-technique 86.0 Kelsey-Thomas room-803
+television-operation 75.2 William-Powell room-712
+null 0 null null
+class-meeting-1 1
+null 0
+141466 Andrew-Kim cs female 2000 2020
+analogical-electronics 77.6 Michael-Small room-406
+circuit-measurement-technology 69.9 Hannah-Ponce room-310
+college-english-test-(band4) 67.5 Amanda-Middleton room-901
+computer-interface-technology 74.8 Marc-Woods room-602
+experiment-in-electronic-circuitry 77.1 Gary-Doyle room-510
+general-physics 80.5 Barbara-Howell room-312
+math 81.5 Chad-Fernandez room-106
+microwave-technique 86.2 Vanessa-Hernandez room-702
+principle-of-sensing-device 82.5 Anthony-Cruz room-705
+theory-of-circuitry 75.5 Rachel-Martin room-502
+null 0 null null
+class-meeting-3 3
+activity-1 1
+class-meeting-1 3
+null 0
+169714 Noah-Edwards cs male 2001 2020
+analogical-electronics 66.2 Charles-Watson room-102
+college-english-test-(band6) 99.9 Holly-Gray room-700
+computational-method 89.9 Todd-Smith room-801
+economy-of-capitalism 80.1 Joseph-Lowery room-902
+electrical-engineering-practice 82.5 Samantha-Moran room-505
+electromagnetic-fields---magnetic-waves 66.6 Savannah-Pena room-511
+experiment-of-college-physics 85.9 Leslie-Blair room-501
+experiment-of-microcomputer 74.9 Jasmine-Smith room-409
+information-searches 77.4 Ashley-Clark room-907
+math 65.7 Cynthia-Cook room-210
+mechanical-graphing 87.0 Danielle-Jones room-107
+military-theory 89.2 Kelly-Love room-105
+principle-of-mechanic 90.9 Angela-Lopez room-603
+principle-of-sensing-device 85.5 David-Cunningham room-508
+principle-of-single-chip-computer 66.4 Nicole-Reynolds room-304
+probability-theory-stochastic-process 61.1 Ryan-Chandler room-104
+python 63.1 James-Webster room-102
+null 0 null null
+class-meeting-2 2
+class-meeting-1 2
+activity-3 2
+null 0
+174370 Kenneth-Garcia cs female 2001 2020
+automatic-control-system 84.5 Brittany-Ford room-602
+basis-of-software-technique 89.7 Rachel-Bryant room-412
+computer-interface-technology 97.3 Diana-Morrison room-911
+c-language 88.4 Sandra-Byrd room-101
+digital-image-processing 87.6 Allison-Baker room-406
+experiment-of-microcomputer 64.3 Melissa-Russell room-404
+functions-of-complex-variables-integral-transformations 62.5 Lori-Howard room-105
+graduation-thesis 72.8 Stacey-Myers room-209
+mechanical-graphing 84.2 James-Robinson room-812
+microcomputer-control-technology 76.3 Jenna-Shelton room-804
+principle-of-communication 96.3 Curtis-York room-202
+pulse---numerical-circuitry 62.4 Leslie-Martinez room-901
+python 83.4 Mary-Shea room-809
+signal-linear-system 93.9 Anne-Ellison-MD room-508
+null 0 null null
+activity-3 1
+class-meeting-3 2
+activity-2 1
+activity-1 3
+class-meeting-2 3
+null 0
+186589 Tanya-Hughes cs male 1998 2020
+analogical-electronics 94.0 Kayla-Welch room-712
+digital-image-processing 71.4 Cindy-Smith room-500
+economy-of-capitalism 91.6 Maria-Townsend room-711
+electromagnetic-fields---magnetic-waves 71.4 Beverly-Lucas room-208
+fiber-optical-communication-system 65.9 Jason-Payne room-612
+industrial-enterprise-management 97.1 Melissa-Rodriguez room-711
+information-searches 73.0 Natalie-Simon room-307
+lab-of-general-physics 90.0 Mrs.-Kelly-Robertson-DVM room-610
+math 72.1 Jeffrey-Zimmerman room-911
+metalworking-practice 96.6 Jane-Summers room-900
+military-theory 96.5 Richard-David room-406
+moving-communication 74.6 Kristen-Hamilton room-810
+optimum-control 74.9 William-Sutton room-805
+principle-of-communication 78.1 Douglas-Hayden room-106
+principle-of-sensing-device 74.2 Bryan-Brown room-811
+principle-of-single-chip-computer 74.9 Debra-White room-311
+procedure-control 99.1 Stacey-Melendez room-312
+null 0 null null
+class-meeting-1 2
+activity-2 2
+null 0
+188169 Joshua-Berry cs male 2002 2020
+advanced-mathematics 69.8 Craig-Ortiz room-401
+analogical-electronics 77.2 William-Castro room-209
+college-english-test-(band4) 94.6 Lauren-Alvarez room-101
+digital-image-processing 61.0 Dr.-Alexandria-Williams room-912
+digital-signal-processing 77.4 Christopher-Johnson room-309
+experiment-of-college-physics 71.8 Jennifer-Young room-100
+functions-of-complex-variables-integral-transformations 61.8 Cheryl-Wells-MD room-904
+introduction-to-reliability-technology 65.6 Jonathan-Rodriguez room-810
+linear-algebra 88.6 Carolyn-Baker room-811
+mechanic-design 83.3 Robert-Walker room-211
+operational-research 87.8 Andrew-Rodriguez room-500
+principle-of-marxism 62.6 Charles-Lopez room-400
+principle-of-mechanic 68.8 Kerri-Nelson room-710
+principle-of-microcomputer 78.3 Michael-Brooks room-905
+principle-of-single-chip-computer 92.5 Jeffrey-Mcdaniel room-312
+pulse---numerical-circuitry 97.6 Donald-Ellis room-711
+python 60.7 Kelly-Lewis room-710
+specialty-english 81.9 Ruben-Stephens room-909
+television-operation 79.8 Frederick-Stevenson room-107
+null 0 null null
+activity-3 2
+activity-1 3
+class-meeting-2 1
+activity-2 1
+class-meeting-3 2
+null 0
+196769 Michelle-Schaefer cs male 2003 2020
+algorithmic-language 71.5 Timothy-Rowe room-500
+auto-measurement-technique 81.7 Daniel-Schultz room-805
+circuit-measurement-technology 79.8 Michael-Doyle room-502
+college-english-test-(band6) 93.3 John-Murphy room-303
+digital-electronics 96.9 Helen-Christian room-300
+electromagnetic-fields---magnetic-waves 92.6 Deanna-Walker room-107
+experiment-of-microcomputer 60.7 Sarah-Davis room-910
+functions-of-complex-variables-integral-transformations 83.5 Robert-Bell room-906
+general-physics 66.8 Dr.-Kyle-Stewart room-700
+lab-of-general-physics 71.1 Jennifer-Taylor room-505
+mechanical-graphing 92.5 Joseph-Simon room-703
+microcomputer-control-technology 90.5 Norman-Thomas room-607
+microwave-technique 90.9 Gary-Bowman room-708
+military-theory 96.8 Jason-Martinez room-611
+optimum-control 99.6 Megan-Gonzalez-DDS room-107
+principle-of-microcomputer 62.6 Brendan-Smith room-506
+python 88.3 Leah-Jones room-700
+semiconductor-converting-technique 87.7 Cynthia-Robbins room-911
+theory-of-circuitry 61.4 Joshua-Hanson room-411
+null 0 null null
+class-meeting-2 3
+null 0
+200435 Brian-Smith cs male 1998 2020
+analogical-electronics 85.4 Mr.-Joshua-Brady room-211
+auto-measurement-technique 90.5 Joseph-Smith room-901
+basis-of-software-technique 67.4 Christopher-Fleming room-112
+college-english-test-(band4) 91.4 Jessica-Mendoza room-107
+c-language 86.8 Amanda-Rodriguez room-512
+digital-image-processing 60.4 Ronald-Miller room-606
+digital-signal-processing 67.4 David-Hopkins room-706
+experiment-in-electronic-circuitry 85.5 Michele-Roach room-305
+graduation-thesis 62.5 Jamie-Sandoval room-305
+math 67.2 Sherri-Jackson room-103
+mechanic-design 76.6 Deborah-Rodriguez room-702
+metalworking-practice 94.3 Colleen-Wilkinson room-103
+optimum-control 62.8 Alexis-Chambers room-306
+probability-theory-stochastic-process 82.5 James-Guerrero room-301
+procedure-control 90.8 Felicia-Villanueva room-109
+null 0 null null
+activity-3 1
+class-meeting-3 1
+activity-2 1
+null 0
+206623 Gina-Hernandez cs female 1998 2020
+algorithmic-language 96.5 Kevin-Spencer room-606
+analogical-electronics 80.0 Nicholas-Williams room-500
+college-english 69.3 Steven-Robertson room-302
+computer-interface-technology 76.4 Mark-Evans room-308
+economy-of-capitalism 66.6 Rebecca-Hamilton room-904
+electrical-engineering-practice 64.2 Matthew-Johnson room-600
+mechanical-graphing 75.3 Ann-Gonzales room-910
+military-theory 86.3 Dr.-Amanda-Barnes room-508
+optimum-control 77.0 Miguel-Holloway room-809
+principle-of-communication 65.8 Stephen-Montgomery room-302
+principle-of-mechanic 74.4 Daniel-Jimenez room-511
+principle-of-sensing-device 84.7 Darlene-King room-908
+python 80.1 Erin-Garcia room-909
+null 0 null null
+class-meeting-3 3
+activity-1 2
+class-meeting-1 1
+activity-2 2
+null 0
+244710 David-Watkins cs female 2000 2020
+automatic-control-system 89.2 Heather-Arias room-604
+circuit-measurement-technology 93.1 Jay-Hodges room-904
+digital-electronics 87.6 Teresa-Ruiz room-712
+digital-signal-processing 78.0 Daniel-Garcia room-412
+electrical-engineering-practice 73.6 Samantha-Price room-904
+experiment-of-microcomputer 69.7 Margaret-Reynolds room-500
+functions-of-complex-variables-integral-transformations 95.5 Kyle-Johnson room-908
+general-physics 78.9 Dr.-Hannah-Odonnell-DVM room-901
+introduction-to-reliability-technology 86.7 Christopher-Wallace room-512
+lab-of-general-physics 88.9 James-Murphy room-102
+linear-algebra 79.4 Melissa-Smith room-311
+mechanic-design 71.9 Christina-Lee room-709
+moving-communication 79.5 Brooke-Crawford room-504
+optimum-control 86.9 Jean-Obrien room-904
+principle-of-mechanic 78.1 Thomas-Stanley room-710
+principle-of-sensing-device 85.5 Kayla-Sanchez room-108
+probability-theory-stochastic-process 74.2 Courtney-Baker room-308
+procedure-control 76.9 Jesse-Parks room-903
+pulse---numerical-circuitry 94.7 Nicholas-Campos room-102
+python 97.0 Regina-Arias-DDS room-805
+satellite-communications 88.2 Molly-Fisher room-900
+signal-linear-system 88.5 Pamela-Ford room-810
+null 0 null null
+class-meeting-1 2
+activity-1 2
+activity-3 1
+null 0
+276564 Karen-Wells cs female 1998 2020
+analogical-electronics 63.0 Elizabeth-Kidd room-912
+auto-measurement-technique 61.8 Jordan-Smith room-500
+basis-of-software-technique 60.2 Angela-Chavez room-605
+computational-method 80.2 Richard-Carter room-803
+digital-image-processing 89.1 Chad-Garrett room-902
+electromagnetic-fields---magnetic-waves 77.0 Michael-Jackson room-105
+experiment-in-electronic-circuitry 84.6 Ashley-Dawson room-401
+industrial-enterprise-management 62.1 Andrew-Arias room-909
+introduction-to-reliability-technology 88.8 Justin-Sherman room-306
+moving-communication 71.7 Wesley-Wilson room-210
+operational-research 65.8 Timothy-Gibson room-710
+principle-of-marxism 96.3 Mitchell-Mcintosh room-303
+pulse---numerical-circuitry 88.0 Karen-Martinez room-608
+signal-linear-system 83.3 Michael-Carroll room-202
+specialty-english 92.8 Patrick-Vang room-506
+television-operation 98.2 Dr.-Daniel-Byrd-DDS room-702
+null 0 null null
+activity-3 3
+activity-1 1
+null 0
+334873 Kenneth-Mckenzie cs male 2000 2020
+college-english-test-(band4) 96.5 Brittany-Rivera room-501
+experiment-in-electronic-circuitry 97.8 Sue-Bradley room-211
+experiment-of-microcomputer 71.6 David-Lynch room-511
+industrial-enterprise-management 87.9 Ashley-Archer room-611
+null 0 null null
+activity-1 1
+null 0
+222072 Cathy-Baxter cs male 2003 2020
+analogical-electronics 75.2 Albert-Richard room-809
+automatic-control-system 85.7 Jessica-Wilcox room-909
+basis-of-software-technique 82.5 Robert-Edwards room-805
+college-physics 93.0 Amanda-Rodriguez room-502
+c-language 73.5 Katherine-Jackson room-407
+electromagnetic-fields---magnetic-waves 64.3 Ian-Foster room-504
+experiment-of-microcomputer 99.7 Denise-Romero room-502
+fiber-optical-communication-system 73.7 Tammy-Cunningham room-409
+general-physics 84.2 Nicolas-Miller room-707
+information-searches 83.4 Ryan-Johnson room-409
+linear-algebra 83.8 Joel-Sims-Jr. room-905
+metalworking-practice 70.8 Kara-Cochran-DDS room-502
+microcomputer-control-technology 93.9 Tasha-Brown room-603
+principle-of-communication 89.6 William-Lee room-207
+principle-of-mechanic 83.9 Justin-Howard room-309
+principle-of-microcomputer 93.1 Jon-Beasley room-510
+pulse---numerical-circuitry 71.5 David-Acosta room-211
+python 74.0 Amanda-Campbell room-610
+theory-of-circuitry 94.3 Breanna-Davidson room-106
+null 0 null null
+class-meeting-1 3
+activity-3 1
+class-meeting-3 2
+class-meeting-2 1
+null 0
+234273 Stephen-Le cs male 2002 2020
+analogical-electronics 86.8 Jennifer-Wise room-610
+circuit-measurement-technology 67.7 Matthew-Velasquez room-310
+college-english-test-(band6) 70.7 Regina-Morris room-512
+electromagnetic-fields---magnetic-waves 60.8 Matthew-Lewis-DDS room-211
+fundamentals-of-law 70.8 Vicki-Young room-207
+graduation-thesis 72.3 William-Durham room-900
+procedure-control 94.3 Jacob-Smith room-609
+pulse---numerical-circuitry 65.3 Michelle-Wilson room-404
+semiconductor-converting-technique 73.6 Anita-Howard room-310
+null 0 null null
+activity-1 3
+class-meeting-1 2
+null 0
+240577 Michele-Brown cs female 2002 2020
+college-english-test-(band6) 82.2 Kelly-Robinson room-201
+c-language 60.6 Stephen-Hart room-805
+digital-image-processing 78.7 Stephanie-Evans room-102
+digital-signal-processing 78.8 Arthur-Cooke room-411
+general-physics 71.9 Elizabeth-Johnston room-511
+introduction-to-reliability-technology 77.3 Timothy-Tate room-709
+math 100.0 Richard-Pena room-307
+moving-communication 91.3 Felicia-Evans room-405
+pulse---numerical-circuitry 76.0 Jordan-Foster room-902
+signal-linear-system 80.9 Jason-Smith room-407
+television-operation 95.4 Timothy-Yoder room-308
+null 0 null null
+activity-2 1
+null 0
+246012 Lauren-Vance cs male 1999 2020
+advanced-mathematics 89.4 Amy-Marks room-710
+automatic-control-system 70.7 Miguel-Harvey room-106
+automatic-control-theory 78.8 Amber-Maxwell room-307
+basis-of-software-technique 97.5 Todd-Martin room-903
+circuitry 95.3 Joshua-Ortega room-103
+college-english 79.8 Paul-Johnson room-805
+digital-signal-processing 64.0 Jonathan-Byrd room-509
+electromagnetic-fields---magnetic-waves 62.1 Valerie-Baldwin room-712
+experiment-in-electronic-circuitry 62.9 Kathy-Cooke room-912
+experiment-of-college-physics 72.9 Jennifer-Crane room-105
+fiber-optical-communication-system 93.8 Justin-Frazier room-202
+linear-algebra 69.8 Dr.-Rachel-Jones-MD room-607
+metalworking-practice 65.8 Amy-Rivers room-311
+principle-of-mechanic 64.3 Anthony-Olson room-712
+probability-theory-stochastic-process 82.9 Sean-Tyler room-312
+satellite-communications 80.4 Kimberly-Page room-703
+specialty-english 60.7 Derrick-Lee room-207
+television-operation 91.6 Donald-Hicks room-211
+null 0 null null
+class-meeting-3 1
+class-meeting-2 3
+null 0
+271269 Karen-Christensen cs female 2001 2020
+algorithmic-language 67.1 Eddie-Estrada room-706
+college-english-test-(band4) 93.8 Hannah-Ramirez room-602
+college-english-test-(band6) 82.3 Billy-Smith room-702
+college-physics 87.0 Patricia-Rodriguez room-608
+digital-image-processing 78.9 Jacob-Saunders room-812
+experiment-of-college-physics 99.4 Kathleen-Villegas room-901
+functions-of-complex-variables-integral-transformations 97.1 Jordan-Owens room-702
+graduation-thesis 90.0 Don-Hall room-303
+industrial-enterprise-management 83.2 Lori-Rodriguez room-809
+linear-algebra 74.3 Amanda-Mcconnell room-408
+principle-of-communication 82.4 Daniel-Allen room-911
+principle-of-mechanic 63.0 Ronald-Mitchell room-209
+principle-of-microcomputer 82.7 Sarah-Edwards room-406
+principle-of-sensing-device 94.1 Timothy-Kelly room-410
+principle-of-single-chip-computer 60.2 Mary-Austin room-805
+probability-theory-stochastic-process 91.3 Chelsey-Keith room-211
+procedure-control 84.3 Mark-Jensen room-401
+pulse---numerical-circuitry 91.7 Brian-Chavez room-500
+semiconductor-converting-technique 64.0 Amanda-Davis room-910
+specialty-english 66.1 Sarah-Willis room-601
+television-operation 61.9 Michael-Smith room-505
+null 0 null null
+class-meeting-2 3
+activity-1 3
+null 0
+272431 Joel-Rosales cs female 2000 2020
+circuitry 63.9 Elizabeth-Wolfe room-906
+college-english-test-(band6) 65.1 Lisa-Diaz room-700
+digital-signal-processing 94.0 Angela-Sanchez room-501
+graduation-thesis 100.0 Andrew-Kaufman room-503
+operational-research 86.5 Shaun-Caldwell room-611
+principle-of-microcomputer 79.4 Donna-Miller room-811
+null 0 null null
+class-meeting-3 3
+activity-3 3
+activity-2 3
+null 0
+277045 Jean-Miller cs female 2000 2020
+auto-measurement-technique 90.7 Lisa-Smith room-407
+basis-of-software-technique 93.7 Gina-Leach room-609
+college-english 83.3 Casey-Bates room-108
+college-physics 89.6 Glen-Cox room-901
+c-language 89.7 Nicole-Reid room-203
+experiment-in-electronic-circuitry 85.5 Mrs.-Amy-Hodge room-910
+experiment-of-college-physics 69.9 Tanner-Sparks room-511
+experiment-of-microcomputer 64.9 Nicole-Hill room-604
+general-physics 79.1 Jason-Williams room-300
+mechanical-graphing 89.0 Christopher-Payne room-705
+metalworking-practice 61.3 Hailey-Edwards room-401
+microwave-technique 78.5 Eric-Pierce-MD room-704
+moving-communication 82.7 Benjamin-Morrison room-600
+optimum-control 77.7 Jacqueline-Taylor room-408
+principle-of-marxism 65.6 Charles-Estrada room-611
+principle-of-single-chip-computer 94.9 Jessica-Rodriguez room-404
+procedure-control 82.2 Mary-Blake room-401
+signal-linear-system 76.6 Jennifer-Porter room-506
+theory-of-circuitry 77.5 Kirsten-Hawkins room-308
+null 0 null null
+activity-3 2
+class-meeting-1 1
+activity-1 2
+class-meeting-3 1
+null 0
+278853 Erik-Martinez cs male 2002 2020
+algorithmic-language 75.6 Jordan-Chen-Jr. room-305
+circuit-measurement-technology 99.5 Carolyn-Berry room-804
+college-english-test-(band6) 87.1 Eric-Sanders room-400
+college-physics 99.2 Timothy-Foster room-904
+c-language 66.9 Courtney-Melendez room-207
+digital-signal-processing 88.0 Frederick-Harrison room-505
+economy-of-capitalism 91.6 Tracy-Smith room-200
+experiment-in-electronic-circuitry 74.6 Dr.-Paul-Hunt room-906
+experiment-of-college-physics 72.7 Daniel-Kelley room-101
+fiber-optical-communication-system 72.8 Johnathan-Weaver room-102
+graduation-thesis 75.8 Kimberly-Rivera room-703
+industrial-enterprise-management 63.4 Lisa-Moore room-901
+information-searches 78.8 Cody-Davis room-811
+mechanical-graphing 71.1 Beth-Coleman room-804
+microcomputer-control-technology 86.1 Hannah-Sweeney room-311
+microwave-technique 71.4 Cynthia-Arnold room-712
+moving-communication 87.1 Ashley-Herrera room-702
+principle-of-communication 68.3 Andrea-Richardson room-412
+principle-of-marxism 73.6 Denise-Case room-108
+principle-of-mechanic 83.3 Kimberly-Escobar room-709
+principle-of-sensing-device 84.0 Kyle-Shaw room-600
+principle-of-single-chip-computer 66.8 Shawn-Black room-707
+pulse---numerical-circuitry 73.9 Norman-Rodriguez room-704
+signal-linear-system 63.1 Lisa-Woods room-710
+theory-of-circuitry 96.2 Stephen-Jackson room-912
+null 0 null null
+class-meeting-1 2
+activity-1 3
+null 0
+286438 Caroline-Mccarthy cs female 2003 2020
+principle-of-mechanic 89.9 John-Glover room-505
+principle-of-sensing-device 71.1 Craig-Bates room-302
+probability-theory-stochastic-process 91.5 Samuel-Hill room-910
+null 0 null null
+activity-3 1
+null 0
+310846 Jennifer-Dillon cs male 2000 2020
+circuit-measurement-technology 66.5 Joseph-Peterson room-510
+economy-of-capitalism 66.3 Kathryn-Howard room-712
+electromagnetic-fields---magnetic-waves 69.9 Kenneth-Day room-902
+industrial-enterprise-management 91.7 John-Lewis room-404
+metalworking-practice 71.4 Jimmy-Torres room-708
+principle-of-marxism 63.2 James-Roman room-911
+principle-of-mechanic 64.2 Tara-Middleton room-610
+principle-of-sensing-device 68.1 Aaron-Phillips room-105
+null 0 null null
+class-meeting-1 1
+activity-1 1
+null 0
+317588 Michael-Ortiz cs male 2000 2020
+algorithmic-language 95.6 Joseph-Duarte room-300
+automatic-control-theory 69.7 Logan-Case room-408
+auto-measurement-technique 66.7 Jason-Quinn room-206
+basis-of-software-technique 75.0 Anthony-Knight room-510
+circuitry 76.2 James-Nash room-811
+college-english-test-(band4) 81.0 Christopher-Lozano room-303
+college-physics 96.3 Nathaniel-Lara room-504
+computer-interface-technology 62.2 Tiffany-Johnson room-100
+c-language 79.4 James-Gomez room-306
+economy-of-capitalism 76.2 Jose-Barr room-110
+electrical-engineering-practice 78.5 Kevin-Carter room-405
+graduation-thesis 70.0 Michael-Guzman room-611
+industrial-enterprise-management 82.0 Amber-Collins room-109
+metalworking-practice 65.9 Amanda-Walsh room-510
+microcomputer-control-technology 94.1 Thomas-Frazier room-106
+microwave-technique 89.4 Timothy-Jenkins room-312
+military-theory 97.9 Sharon-Clark room-403
+optimum-control 98.6 Michael-Bird room-909
+principle-of-marxism 60.5 Angela-Hart room-103
+procedure-control 96.8 Michael-Roberts room-308
+satellite-communications 88.1 Marie-Marquez-PhD room-502
+semiconductor-converting-technique 88.6 Mrs.-Valerie-Reed-DDS room-801
+null 0 null null
+activity-1 3
+null 0
+319581 John-Luna cs female 2003 2020
+college-english 79.8 Linda-Gamble room-608
+c-language 81.5 Daniel-Davis room-907
+digital-signal-processing 66.9 Christopher-Taylor room-202
+principle-of-marxism 70.9 Tom-Rodgers room-604
+probability-theory-stochastic-process 91.1 Veronica-Kelly room-402
+signal-linear-system 84.8 Madeline-Sellers room-102
+null 0 null null
+class-meeting-1 1
+class-meeting-2 1
+activity-2 2
+class-meeting-3 3
+null 0
+366832 Heather-Moss cs male 1998 2020
+auto-measurement-technique 93.9 Heather-Ross room-705
+college-english-test-(band4) 65.5 Andrew-Mcmahon room-603
+experiment-in-electronic-circuitry 86.6 Julie-Mahoney room-410
+experiment-of-college-physics 83.4 Bill-Delgado room-411
+functions-of-complex-variables-integral-transformations 90.9 Brent-Edwards room-606
+fundamentals-of-law 60.9 Caroline-Williams room-207
+graduation-thesis 94.1 Jason-Weiss room-505
+information-searches 72.7 Heather-Harris room-503
+math 99.1 Holly-Lawson room-807
+microcomputer-control-technology 71.1 Krystal-Ho room-607
+microwave-technique 82.8 Melissa-Cooke room-901
+principle-of-communication 60.2 Mr.-Brian-Vazquez room-704
+pulse---numerical-circuitry 60.9 Jesse-Roberts room-401
+specialty-english 81.7 Julie-Williams room-312
+television-operation 76.4 Brian-Callahan room-305
+theory-of-circuitry 73.9 Erik-Ferguson room-209
+null 0 null null
+activity-1 3
+null 0
+368620 Jonathan-Garcia cs male 1999 2020
+auto-measurement-technique 88.1 Suzanne-Williams room-905
+college-english-test-(band6) 61.1 Randy-Rivera room-906
+electrical-engineering-practice 73.9 Mary-Lopez room-403
+industrial-enterprise-management 61.8 Shannon-Robertson room-901
+linear-algebra 86.4 Heather-Thompson room-611
+metalworking-practice 76.7 Destiny-Lewis room-307
+principle-of-sensing-device 70.3 Dr.-William-Johnson room-102
+null 0 null null
+class-meeting-2 1
+class-meeting-1 1
+class-meeting-3 3
+activity-1 3
+null 0
+372679 Ronald-Castaneda cs male 2001 2020
+advanced-mathematics 82.7 Laurie-Sharp room-700
+digital-image-processing 94.1 Matthew-Nguyen room-605
+python 93.5 Bradley-Lucas room-902
+satellite-communications 87.2 Steven-Tate room-311
+null 0 null null
+class-meeting-1 3
+null 0
+408265 John-Ramos cs female 1999 2020
+college-english-test-(band4) 78.8 Sierra-Harrington room-700
+digital-image-processing 62.9 Jordan-Smith-MD room-311
+electromagnetic-fields---magnetic-waves 96.5 Cheryl-Lopez room-705
+lab-of-general-physics 98.7 Kelli-Johnson room-802
+linear-algebra 63.5 Veronica-Williams room-302
+principle-of-marxism 63.8 Kristy-Daniels room-502
+specialty-english 77.6 Wendy-Oconnor-DVM room-802
+null 0 null null
+class-meeting-2 3
+activity-1 1
+activity-3 2
+class-meeting-1 2
+class-meeting-3 1
+null 0
+552442 Michelle-Hernandez cs female 2003 2020
+analogical-electronics 97.2 Michael-Jones room-607
+automatic-control-system 88.6 Lauren-Lee room-902
+college-english 73.0 Christopher-Stanton room-603
+college-english-test-(band6) 73.5 James-Williams room-800
+computational-method 88.3 Tiffany-Graves room-912
+c-language 73.7 Duane-Burch room-500
+digital-electronics 91.6 Michael-Norman room-811
+digital-signal-processing 65.8 Amy-Barrett room-804
+experiment-of-microcomputer 68.3 Deborah-Mcmahon room-210
+fiber-optical-communication-system 74.4 Angel-Goodwin room-410
+industrial-enterprise-management 66.1 Christopher-Young room-609
+introduction-to-reliability-technology 89.6 Mitchell-Rodriguez room-711
+linear-algebra 71.5 Thomas-Marquez room-300
+mechanical-graphing 97.8 Alexandra-Ward room-200
+mechanic-design 83.2 Aaron-Jackson room-202
+metalworking-practice 95.2 Robert-Osborn room-409
+operational-research 71.4 Nancy-Norton room-911
+principle-of-communication 67.2 Charles-Elliott room-105
+principle-of-sensing-device 85.7 Nicholas-Davis-DDS room-912
+principle-of-single-chip-computer 67.3 Austin-Jensen room-904
+procedure-control 82.3 Anthony-Jordan room-300
+python 64.3 Richard-Hall room-309
+semiconductor-converting-technique 80.2 James-Fuller room-901
+null 0 null null
+activity-2 3
+class-meeting-1 2
+class-meeting-3 2
+null 0
+567966 Chad-Burns cs male 1999 2020
+advanced-mathematics 71.9 Richard-Hamilton room-700
+automatic-control-theory 97.9 Timothy-Mack room-402
+college-english 70.7 Gerald-Scott room-703
+computer-interface-technology 83.0 Summer-Carter room-312
+digital-electronics 95.2 John-Benton room-710
+digital-signal-processing 67.7 David-Hatfield room-811
+electromagnetic-fields---magnetic-waves 96.0 Erik-Page room-906
+fundamentals-of-law 86.6 Brianna-Watkins room-305
+general-physics 67.0 Samantha-Rowe room-907
+industrial-enterprise-management 82.1 Belinda-Briggs room-200
+mechanic-design 80.7 Jordan-Munoz room-703
+operational-research 78.9 Steven-Cruz room-110
+principle-of-communication 88.3 Carl-Brown room-511
+principle-of-marxism 62.4 Jessica-Nguyen room-705
+principle-of-mechanic 99.5 Brandon-Young room-101
+probability-theory-stochastic-process 81.7 Michelle-Hancock room-602
+procedure-control 93.4 Bailey-Baxter room-302
+television-operation 83.6 Heather-Chavez room-300
+theory-of-circuitry 74.2 Kenneth-Webb room-403
+null 0 null null
+activity-1 3
+class-meeting-2 2
+activity-2 2
+null 0
+381540 Brenda-Brown cs male 2001 2020
+advanced-mathematics 65.1 Charles-Rodriguez room-110
+automatic-control-theory 72.3 Jennifer-Marsh room-112
+auto-measurement-technique 96.8 Jason-Wilson room-401
+college-english 91.7 Martha-Warner room-400
+digital-image-processing 94.7 Gregory-Sawyer room-201
+electrical-engineering-practice 61.4 Lauren-Fischer room-706
+experiment-of-college-physics 95.2 Leroy-Mitchell room-907
+mechanic-design 76.9 Theresa-Campbell room-604
+microwave-technique 81.4 Jasmine-Perez room-408
+moving-communication 71.8 Sean-Martin room-711
+principle-of-single-chip-computer 65.9 Jennifer-Rodriguez room-605
+null 0 null null
+class-meeting-1 3
+activity-2 1
+null 0
+382379 Matthew-Sloan cs male 2003 2020
+automatic-control-system 90.9 Adam-Kennedy room-509
+automatic-control-theory 91.8 Laura-Norman room-511
+economy-of-capitalism 66.8 Richard-Serrano room-102
+experiment-of-college-physics 65.7 Jordan-Brown room-100
+experiment-of-microcomputer 66.8 Richard-Stark room-709
+fiber-optical-communication-system 74.8 Allison-Hubbard room-806
+fundamentals-of-law 80.7 Theresa-Velez room-609
+operational-research 88.3 Jacob-Duke room-506
+principle-of-mechanic 97.8 Joseph-Olson room-103
+pulse---numerical-circuitry 86.4 Paula-Roberts room-907
+television-operation 60.9 Alicia-Mckinney room-102
+theory-of-circuitry 71.0 Kathryn-Neal room-711
+null 0 null null
+class-meeting-1 2
+activity-1 2
+activity-3 3
+activity-2 3
+null 0
+399758 Kelsey-Hawkins cs male 2003 2020
+algorithmic-language 62.5 Mark-Marshall room-700
+college-physics 96.9 Theresa-Hicks room-701
+null 0 null null
+activity-3 1
+null 0
+425336 Beverly-Espinoza cs female 1999 2020
+automatic-control-theory 96.1 Harry-Garcia room-905
+circuit-measurement-technology 74.1 Troy-Harris room-207
+computational-method 60.3 Jennifer-Shea room-910
+electrical-engineering-practice 73.8 Mr.-Michael-Hogan room-301
+electromagnetic-fields---magnetic-waves 89.9 Brianna-Pratt room-305
+graduation-thesis 67.2 Victoria-Price room-710
+information-searches 90.8 Anthony-Perkins room-704
+lab-of-general-physics 90.4 Isaac-Frazier room-505
+microwave-technique 74.0 Julie-Bradford room-603
+military-theory 79.4 Omar-Burton room-808
+null 0 null null
+class-meeting-2 2
+activity-3 1
+activity-2 3
+class-meeting-3 3
+activity-1 1
+null 0
+428714 Timothy-Johnston cs female 2001 2020
+algorithmic-language 86.3 Jerry-Carey room-605
+circuit-measurement-technology 61.0 Jessica-Lewis room-906
+computer-interface-technology 72.3 William-Bowers room-612
+digital-electronics 84.3 Katherine-Williams room-307
+digital-signal-processing 78.3 Cynthia-White room-309
+electromagnetic-fields---magnetic-waves 75.8 Teresa-Torres room-411
+experiment-in-electronic-circuitry 94.7 Selena-Cole room-609
+experiment-of-college-physics 73.7 Debra-Flores room-409
+experiment-of-microcomputer 82.5 Glenda-Singh room-703
+fiber-optical-communication-system 77.1 Wanda-Taylor room-903
+functions-of-complex-variables-integral-transformations 97.8 Laura-Smith room-611
+introduction-to-reliability-technology 97.2 Holly-Wong room-212
+mechanical-graphing 93.2 William-Mckee room-211
+military-theory 76.8 Cynthia-Harris room-904
+moving-communication 66.7 John-Casey room-900
+operational-research 85.9 Amy-Kim room-806
+optimum-control 60.5 Christine-Harvey room-410
+principle-of-sensing-device 83.9 Erica-Brennan room-302
+principle-of-single-chip-computer 74.7 Melissa-Page room-305
+satellite-communications 93.9 Wendy-Schmidt room-506
+television-operation 72.5 Shannon-Daniel room-106
+theory-of-circuitry 79.8 Anna-Brown room-309
+null 0 null null
+activity-1 1
+class-meeting-1 3
+null 0
+447809 Sandra-Wang cs male 2003 2020
+advanced-mathematics 87.1 Laura-King room-303
+analogical-electronics 72.6 James-Harris room-501
+automatic-control-theory 80.4 Shane-Jones room-600
+circuitry 88.0 Erik-Anderson room-202
+computational-method 81.9 Patricia-Gray room-312
+c-language 74.6 Michael-Smith room-308
+digital-signal-processing 62.5 Jason-Marsh room-303
+electromagnetic-fields---magnetic-waves 82.4 Ray-Moreno room-703
+experiment-in-electronic-circuitry 96.1 Lindsey-Weber room-305
+experiment-of-microcomputer 74.7 Christopher-Levy room-409
+graduation-thesis 86.3 Daniel-Murray room-711
+industrial-enterprise-management 64.1 Michael-Russell room-606
+introduction-to-reliability-technology 87.0 Emily-Carey room-700
+lab-of-general-physics 64.5 Beth-Smith room-308
+mechanical-graphing 98.7 Sharon-Summers room-710
+mechanic-design 79.8 Andrea-Grimes room-304
+moving-communication 64.8 Donald-Carter room-708
+principle-of-mechanic 88.2 Craig-White room-901
+principle-of-sensing-device 69.9 David-Mendoza room-500
+procedure-control 90.7 Michael-Herring room-710
+python 83.5 Jill-Ramirez room-110
+television-operation 95.1 John-Valentine room-601
+theory-of-circuitry 87.5 Carrie-Myers room-710
+null 0 null null
+activity-3 2
+activity-1 1
+class-meeting-2 2
+class-meeting-3 2
+null 0
+455530 Dennis-Taylor cs female 1999 2020
+automatic-control-system 94.6 Katrina-Pratt room-106
+electrical-engineering-practice 99.7 Ruth-Moore room-111
+electromagnetic-fields---magnetic-waves 92.5 Zachary-Jones room-901
+experiment-of-microcomputer 88.7 Barbara-Turner room-109
+general-physics 70.9 Erika-Sweeney room-104
+industrial-enterprise-management 65.9 Ashley-Jones room-609
+microcomputer-control-technology 97.1 Whitney-Castro room-805
+principle-of-mechanic 90.1 Christopher-Martinez room-309
+null 0 null null
+class-meeting-3 1
+activity-2 1
+activity-1 1
+class-meeting-2 3
+null 0
+455917 Kimberly-Ochoa cs male 1998 2020
+c-language 73.2 Ashley-Oneal room-404
+graduation-thesis 95.9 Justin-Villegas room-900
+principle-of-microcomputer 69.1 Bradley-Davis room-805
+theory-of-circuitry 91.1 Andrew-Flynn room-311
+null 0 null null
+class-meeting-2 3
+activity-3 2
+null 0
+469384 Amanda-Lucas cs male 1999 2020
+functions-of-complex-variables-integral-transformations 70.1 Rhonda-Lawson room-406
+graduation-thesis 96.5 Jared-Skinner room-709
+microcomputer-control-technology 63.7 Deborah-Johnson room-311
+satellite-communications 74.8 Stephen-Miller room-112
+null 0 null null
+class-meeting-2 3
+class-meeting-3 2
+activity-3 1
+activity-2 2
+null 0
+469640 Kayla-Hunt cs male 1999 2020
+advanced-mathematics 60.0 Ryan-White room-810
+analogical-electronics 64.1 Rachel-Smith room-310
+basis-of-software-technique 98.7 Dave-Lowe room-608
+computer-interface-technology 68.3 Keith-Thomas room-302
+c-language 74.0 Kelly-Santiago room-304
+digital-image-processing 97.1 Sara-Sanders room-808
+electrical-engineering-practice 93.3 Timothy-Campos room-900
+experiment-of-college-physics 86.1 Brett-Reed room-608
+fundamentals-of-law 77.6 Sandra-Anderson room-708
+industrial-enterprise-management 60.8 Jonathan-Torres room-905
+information-searches 61.5 Daniel-Johnson room-505
+introduction-to-reliability-technology 66.0 Brian-Barnes room-412
+mechanical-graphing 90.7 Jerry-Perez room-112
+mechanic-design 81.2 Kimberly-Brown room-809
+metalworking-practice 79.6 Tiffany-Rivera room-510
+microcomputer-control-technology 80.3 Steven-Ortega room-410
+procedure-control 88.6 Edward-Green room-410
+television-operation 92.4 Jennifer-Gonzalez room-109
+null 0 null null
+activity-1 2
+class-meeting-2 2
+class-meeting-1 3
+activity-3 2
+null 0
+552616 Danielle-Lewis cs male 2002 2020
+advanced-mathematics 78.8 Laura-Floyd room-101
+algorithmic-language 67.3 Elizabeth-Roberson room-607
+analogical-electronics 99.6 Eric-Sullivan room-700
+automatic-control-theory 92.8 Rodney-Newton room-611
+auto-measurement-technique 80.3 Mary-Chambers room-601
+basis-of-software-technique 85.0 Susan-Maxwell room-804
+circuit-measurement-technology 77.0 Andrew-Ryan room-412
+college-english 83.7 Danielle-Ramos room-405
+college-english-test-(band4) 84.2 Walter-Brown room-711
+college-english-test-(band6) 83.6 Joyce-Phillips-MD room-800
+college-physics 60.8 Ann-Carson room-912
+digital-signal-processing 77.9 Lisa-Wolfe room-204
+economy-of-capitalism 60.7 Margaret-Martin room-600
+experiment-in-electronic-circuitry 64.3 Mrs.-Elizabeth-Martinez room-808
+functions-of-complex-variables-integral-transformations 61.7 Sarah-Jordan room-906
+fundamentals-of-law 66.7 Melissa-Giles room-405
+military-theory 85.0 Raymond-Flynn room-501
+semiconductor-converting-technique 82.1 Jessica-Joseph room-503
+specialty-english 78.5 Cody-Barrett room-301
+television-operation 68.5 Mark-Thompson room-400
+null 0 null null
+activity-2 2
+activity-3 3
+class-meeting-3 3
+class-meeting-1 2
+null 0
+559398 Nathan-Velazquez cs male 2001 2020
+automatic-control-system 67.7 Mr.-Robert-Griffin room-607
+automatic-control-theory 82.6 Kenneth-Simmons room-808
+computational-method 66.3 Kristin-Morales room-405
+computer-interface-technology 79.1 Kimberly-Short room-908
+functions-of-complex-variables-integral-transformations 99.8 William-Chandler room-706
+microwave-technique 85.5 Lori-Reilly room-105
+moving-communication 78.7 Shannon-Baldwin room-510
+probability-theory-stochastic-process 79.8 Amber-Ortiz room-805
+specialty-english 82.2 Joshua-Carr-MD room-206
+null 0 null null
+class-meeting-2 3
+null 0
+565561 Brandon-Reynolds cs female 2001 2020
+algorithmic-language 74.9 Diana-Wilson room-311
+auto-measurement-technique 80.9 Mario-Harris room-200
+circuit-measurement-technology 90.6 Jo-Myers room-711
+college-english 73.3 James-Martin room-903
+computer-interface-technology 64.9 Joel-Roberts room-708
+c-language 70.6 Caroline-Contreras-PhD room-903
+digital-image-processing 90.5 Tara-Miller room-105
+experiment-in-electronic-circuitry 73.8 Emily-Little room-505
+microcomputer-control-technology 74.3 Joshua-Williamson room-602
+moving-communication 92.2 Jose-Alexander room-801
+optimum-control 62.6 Taylor-Bailey room-608
+procedure-control 94.2 Joseph-Johnston room-801
+python 95.1 Pamela-Watts room-305
+television-operation 81.8 Sarah-Newman room-411
+theory-of-circuitry 76.1 Steven-Wyatt room-112
+null 0 null null
+class-meeting-3 3
+class-meeting-1 2
+null 0
+571429 Julie-Alexander cs male 1998 2020
+algorithmic-language 70.2 Corey-Osborn room-206
+automatic-control-theory 95.4 Belinda-Burgess room-600
+circuitry 77.5 Haley-Camacho room-805
+college-english-test-(band6) 96.7 Ethan-Sullivan room-901
+digital-signal-processing 98.1 Derek-Randolph room-612
+electrical-engineering-practice 87.7 David-Martin room-305
+experiment-of-microcomputer 90.1 Amy-Palmer room-805
+functions-of-complex-variables-integral-transformations 82.7 Julie-Mcgee room-305
+optimum-control 88.8 Justin-Thomas room-902
+probability-theory-stochastic-process 95.7 Gregory-Smith room-704
+procedure-control 68.9 Michelle-Hall-MD room-410
+python 79.4 Tyler-Lewis room-603
+signal-linear-system 93.8 James-Salinas room-112
+television-operation 89.7 Peter-Scott room-204
+null 0 null null
+class-meeting-3 2
+class-meeting-2 3
+null 0
+593751 Sarah-Roberson cs male 2003 2020
+automatic-control-system 98.6 Zachary-Griffin room-605
+college-english-test-(band4) 61.5 Sherry-Miller room-500
+college-english-test-(band6) 63.9 Timothy-Peterson room-412
+college-physics 95.7 Joshua-Robinson room-605
+electromagnetic-fields---magnetic-waves 81.1 Crystal-Miller room-405
+experiment-of-microcomputer 84.2 Matthew-Anderson room-801
+fiber-optical-communication-system 84.4 Allison-Harris room-312
+industrial-enterprise-management 76.1 Rodney-Gibbs room-302
+introduction-to-reliability-technology 95.4 Kevin-Alexander room-502
+lab-of-general-physics 83.9 Meredith-Keller room-301
+moving-communication 77.0 Pam-Davis room-701
+optimum-control 82.8 Lori-Shelton room-105
+semiconductor-converting-technique 70.9 Jasmine-Hanson room-207
+null 0 null null
+class-meeting-3 2
+activity-2 2
+null 0
+597727 Denise-Webb cs female 2003 2020
+college-english 60.7 Jonathan-Shannon room-110
+college-english-test-(band4) 76.1 Laura-Fleming room-610
+college-physics 79.7 Katie-Russell room-205
+digital-image-processing 65.1 Kenneth-Velazquez room-100
+economy-of-capitalism 96.3 Andrew-Odom room-211
+electromagnetic-fields---magnetic-waves 67.7 Amber-Bennett room-908
+industrial-enterprise-management 75.6 James-Gomez room-400
+information-searches 81.7 Leah-Rosales room-609
+linear-algebra 95.2 Laura-Duncan room-205
+mechanical-graphing 81.6 Donald-Hines room-709
+military-theory 77.8 Mark-Lynn room-400
+optimum-control 89.7 Judy-Crawford room-900
+principle-of-marxism 72.3 Jodi-Mueller room-212
+principle-of-microcomputer 62.1 Andrea-Bray room-604
+procedure-control 63.1 Samantha-Stuart room-104
+semiconductor-converting-technique 74.0 Daniel-Nash room-906
+null 0 null null
+class-meeting-1 1
+activity-1 2
+null 0
+618621 Crystal-Greer cs male 2000 2020
+analogical-electronics 81.4 Brittany-Walsh room-903
+automatic-control-system 98.4 Michelle-Santos room-801
+circuit-measurement-technology 98.7 Amanda-Mitchell room-507
+college-physics 62.1 Pamela-Olson room-711
+experiment-in-electronic-circuitry 95.0 Tanya-Mendoza room-202
+fundamentals-of-law 81.8 Amanda-Webb room-204
+general-physics 75.8 Christopher-Ward room-601
+information-searches 86.7 James-Rivera room-311
+introduction-to-reliability-technology 80.9 Angela-Dixon room-612
+math 73.8 Jeffrey-Lewis room-803
+microwave-technique 66.6 Jordan-Reynolds room-309
+principle-of-marxism 99.9 Grant-Barron room-600
+principle-of-mechanic 60.5 Kenneth-Kelly room-800
+procedure-control 61.2 Daniel-Gilbert room-602
+satellite-communications 83.1 Tracy-Rodriguez room-206
+specialty-english 91.1 Michael-Phillips room-406
+television-operation 81.1 Maria-Fuentes room-406
+null 0 null null
+class-meeting-2 3
+class-meeting-1 3
+activity-3 2
+class-meeting-3 3
+activity-1 1
+null 0
+669648 Vincent-Hernandez cs male 1998 2020
+advanced-mathematics 77.0 Seth-Richardson room-806
+algorithmic-language 97.0 Heidi-Gonzalez room-708
+automatic-control-theory 84.2 Tyler-Chen room-807
+college-english-test-(band4) 66.3 Jacob-Martinez room-104
+computer-interface-technology 90.1 Timothy-Santana room-304
+digital-image-processing 61.1 Elizabeth-Moore room-906
+experiment-of-college-physics 74.4 Heidi-Mccormick room-304
+fiber-optical-communication-system 89.2 Michael-Smith room-105
+functions-of-complex-variables-integral-transformations 75.5 Ashley-Jackson room-812
+fundamentals-of-law 76.5 James-Kelly room-605
+introduction-to-reliability-technology 87.2 Wendy-Simpson room-200
+lab-of-general-physics 94.3 Ellen-Patel room-806
+mechanical-graphing 97.5 Daniel-Haynes room-311
+microwave-technique 83.7 Matthew-Pope room-706
+operational-research 84.6 Luke-Rogers-MD room-211
+principle-of-mechanic 96.0 Daniel-Sanders room-303
+principle-of-sensing-device 95.1 Joshua-Molina room-103
+principle-of-single-chip-computer 78.2 Heather-Clark room-712
+probability-theory-stochastic-process 94.9 James-Todd room-201
+theory-of-circuitry 61.6 Thomas-Doyle room-407
+null 0 null null
+class-meeting-2 3
+activity-2 3
+class-meeting-1 3
+null 0
+718899 Suzanne-Rojas cs male 2000 2020
+college-english-test-(band6) 91.8 Katherine-Compton room-706
+college-physics 89.9 Scott-Fleming room-111
+digital-image-processing 98.9 Thomas-Clay room-504
+lab-of-general-physics 92.1 Christina-Young room-703
+linear-algebra 90.1 Andrea-Elliott room-306
+military-theory 91.0 Steven-Franklin room-403
+optimum-control 91.8 Beth-Esparza room-104
+satellite-communications 77.6 Kim-Suarez room-305
+null 0 null null
+class-meeting-3 2
+class-meeting-2 3
+null 0
+607187 Kenneth-Aguirre cs female 1999 2020
+advanced-mathematics 61.3 Jessica-Cisneros room-510
+digital-image-processing 77.3 Kristina-Jimenez room-701
+fiber-optical-communication-system 89.5 Ronald-Martin room-109
+functions-of-complex-variables-integral-transformations 77.3 Ronald-Shaw room-808
+fundamentals-of-law 98.5 Jordan-Hunt-II room-402
+industrial-enterprise-management 64.3 Melanie-Price room-712
+lab-of-general-physics 83.6 Gregory-Reynolds room-903
+linear-algebra 72.5 Julie-Shah room-901
+mechanical-graphing 82.9 Ryan-Stewart room-606
+metalworking-practice 98.3 Anthony-Thomas room-409
+microcomputer-control-technology 80.1 Jennifer-May room-204
+microwave-technique 95.0 Robert-Horn room-603
+operational-research 73.1 Jacob-Murphy room-401
+optimum-control 83.0 Casey-Pruitt room-408
+pulse---numerical-circuitry 64.6 Tonya-Rodriguez room-705
+semiconductor-converting-technique 75.2 Stephanie-Kramer room-501
+specialty-english 75.1 George-Jones room-300
+television-operation 92.6 Tina-Miller room-907
+null 0 null null
+class-meeting-3 2
+activity-1 3
+null 0
+615131 Robert-Johnson cs female 1998 2020
+theory-of-circuitry 87.4 Stacy-Decker room-708
+null 0 null null
+class-meeting-1 2
+null 0
+618488 William-Goodwin cs male 1999 2020
+advanced-mathematics 88.2 Bradley-Wilson room-700
+null 0 null null
+activity-1 1
+class-meeting-3 2
+null 0
+623178 Marc-Hill cs male 1998 2020
+basis-of-software-technique 91.9 Tara-Mullins room-212
+digital-signal-processing 73.7 Nathaniel-Jarvis room-302
+electrical-engineering-practice 70.1 Mark-Myers room-110
+microcomputer-control-technology 61.9 Cory-Cruz room-711
+signal-linear-system 68.1 Randall-Williams room-710
+null 0 null null
+class-meeting-3 1
+class-meeting-2 3
+activity-2 2
+class-meeting-1 3
+null 0
+633446 Jason-Bates cs male 2003 2020
+basis-of-software-technique 83.4 Alan-Salazar room-401
+college-english-test-(band6) 86.3 Jeffrey-Patrick room-305
+college-physics 65.6 Douglas-Harrington room-512
+c-language 87.9 Katie-Burke room-310
+digital-image-processing 66.5 Kyle-Murphy room-202
+digital-signal-processing 90.7 Tiffany-Williams room-205
+electromagnetic-fields---magnetic-waves 83.3 Charles-Baldwin room-308
+experiment-of-microcomputer 68.2 Tina-Bailey room-110
+fundamentals-of-law 90.4 Tara-Reynolds room-907
+general-physics 70.6 Ryan-Davis room-901
+information-searches 98.5 Jessica-Olson room-602
+lab-of-general-physics 97.8 Darren-Walters room-400
+mechanic-design 68.6 Shelley-Rivera room-512
+metalworking-practice 61.9 Chad-Curry room-811
+microwave-technique 69.9 Tristan-Wilson room-602
+moving-communication 84.6 Andrew-Johnson room-808
+operational-research 81.2 Jennifer-Gutierrez room-200
+optimum-control 63.9 Diane-Petersen room-907
+principle-of-single-chip-computer 66.1 Beverly-Smith room-403
+procedure-control 82.7 Jackie-Williams room-202
+signal-linear-system 99.2 Charles-Peters room-901
+null 0 null null
+class-meeting-2 1
+null 0
+655959 Dr.-James-Lawson cs male 2000 2020
+analogical-electronics 64.2 Derrick-Humphrey room-700
+automatic-control-theory 75.9 Darrell-Lozano room-201
+circuitry 88.6 Alexis-Tapia room-502
+circuit-measurement-technology 80.0 Andrea-Morgan room-901
+digital-image-processing 80.6 James-Roy room-107
+electromagnetic-fields---magnetic-waves 63.6 Patrick-Thomas room-606
+experiment-in-electronic-circuitry 76.4 James-Lopez room-800
+introduction-to-reliability-technology 81.7 Cassandra-Lowe room-607
+lab-of-general-physics 64.8 Morgan-Simpson room-900
+linear-algebra 98.9 Amanda-Campbell room-208
+math 92.4 Charles-Garcia room-804
+metalworking-practice 66.7 William-Luna room-901
+operational-research 62.3 Yolanda-Bradley room-712
+principle-of-mechanic 75.8 Rachel-Jones room-412
+principle-of-single-chip-computer 87.1 Casey-Klein room-410
+procedure-control 88.6 Megan-Becker-DDS room-603
+python 83.5 Ashley-Ramos room-210
+television-operation 71.9 Tiffany-Russo room-607
+null 0 null null
+class-meeting-2 1
+class-meeting-1 1
+activity-2 1
+null 0
+702004 Jeffrey-Harvey cs male 1998 2020
+advanced-mathematics 64.7 Christina-Joyce room-608
+auto-measurement-technique 87.8 Mark-Norton room-110
+information-searches 79.9 Andrea-Turner room-911
+moving-communication 61.3 Carolyn-Maldonado room-809
+principle-of-microcomputer 83.2 Travis-Stone room-109
+pulse---numerical-circuitry 88.3 Brandon-Stephens room-200
+null 0 null null
+class-meeting-1 1
+null 0
+704158 Dwayne-Peters cs female 2000 2020
+analogical-electronics 97.9 Thomas-Johnson room-109
+college-english-test-(band4) 85.9 Adrian-Patterson room-301
+computer-interface-technology 82.4 Jacob-Dennis room-103
+fiber-optical-communication-system 61.1 Dr.-Robert-Smith room-409
+fundamentals-of-law 78.3 Fred-Berry room-507
+general-physics 98.8 Kristen-Nelson-DDS room-800
+industrial-enterprise-management 96.4 Diana-Watkins room-208
+linear-algebra 91.2 Thomas-Miller room-706
+microcomputer-control-technology 76.2 Rodney-Townsend room-209
+military-theory 69.7 Jack-Herman room-603
+moving-communication 81.2 Makayla-Hampton room-401
+principle-of-communication 87.2 Eric-Gilbert room-312
+principle-of-marxism 76.6 Amy-Owen room-902
+principle-of-mechanic 72.6 Joshua-Estes room-406
+pulse---numerical-circuitry 74.1 Dr.-Scott-Brown room-612
+signal-linear-system 74.5 Samuel-Myers room-301
+null 0 null null
+activity-2 2
+class-meeting-1 1
+class-meeting-3 3
+class-meeting-2 1
+null 0
+718813 Tommy-Rodriguez cs male 2001 2020
+advanced-mathematics 83.4 Stephen-Lee room-105
+college-english 96.2 Jessica-Jones room-706
+fiber-optical-communication-system 68.2 Katie-Robinson room-900
+graduation-thesis 87.6 Robin-Decker room-612
+moving-communication 87.2 Albert-Owens room-507
+principle-of-marxism 61.3 Kelsey-Berger room-908
+procedure-control 92.1 Tracy-Vega room-912
+null 0 null null
+activity-3 1
+class-meeting-3 1
+class-meeting-1 2
+activity-2 3
+null 0
+724991 Brandon-Hansen cs male 2002 2020
+analogical-electronics 69.7 Alicia-Fernandez room-206
+automatic-control-system 63.1 Melissa-Johnson room-307
+circuitry 71.1 Jamie-Jones room-306
+college-english-test-(band4) 70.7 Connie-Garrison room-512
+c-language 75.3 Monica-Horton room-202
+digital-electronics 65.0 Michelle-Sanchez room-307
+digital-signal-processing 91.1 Jeremy-Faulkner room-410
+general-physics 85.9 Paul-Fuller room-806
+graduation-thesis 80.6 Wesley-Stout room-701
+information-searches 68.5 Leah-Barnes room-402
+introduction-to-reliability-technology 63.3 Jo-Dominguez room-302
+microcomputer-control-technology 81.5 Gary-Allen room-203
+military-theory 73.4 Stephanie-Williams room-703
+operational-research 69.0 Crystal-Manning room-612
+principle-of-marxism 60.8 Randy-Lawrence room-403
+principle-of-sensing-device 91.2 Yvette-Davis room-601
+probability-theory-stochastic-process 74.5 John-Marsh room-106
+procedure-control 80.2 Sarah-Baldwin room-407
+python 93.1 Ms.-Maria-Golden room-510
+satellite-communications 88.0 Anita-Alvarez room-509
+semiconductor-converting-technique 83.0 Angelica-Strong room-608
+specialty-english 87.2 Vincent-Walter room-211
+null 0 null null
+activity-3 2
+class-meeting-1 1
+class-meeting-2 3
+null 0
+734838 David-Ramirez-Jr. cs male 2000 2020
+college-english 94.3 Kathy-Ortiz room-809
+college-english-test-(band4) 79.8 Alexis-Brooks room-203
+electromagnetic-fields---magnetic-waves 94.8 Cheryl-Wilson room-110
+graduation-thesis 69.9 Hector-Lindsey room-208
+mechanic-design 80.7 Stephanie-Guerrero room-606
+principle-of-mechanic 92.1 Michael-Marsh room-807
+theory-of-circuitry 61.3 Jason-Combs room-700
+null 0 null null
+class-meeting-2 1
+class-meeting-3 2
+null 0
+739218 Amy-Barnett cs female 1999 2020
+automatic-control-theory 95.2 Jason-Wade room-107
+basis-of-software-technique 65.5 Jennifer-Thomas room-609
+circuit-measurement-technology 62.0 Gregory-Guerrero room-512
+college-english-test-(band4) 96.9 Elizabeth-Wolf room-511
+c-language 80.3 Lydia-Alvarez room-803
+digital-image-processing 60.7 Dr.-Bryan-King room-409
+digital-signal-processing 97.7 Jennifer-Hudson-DDS room-805
+electrical-engineering-practice 60.7 Tristan-Berry room-204
+experiment-in-electronic-circuitry 62.7 Alisha-Ballard room-305
+functions-of-complex-variables-integral-transformations 92.2 Tammie-Warren room-700
+general-physics 74.2 Cynthia-Rose room-708
+information-searches 76.4 Kathleen-Christian room-609
+lab-of-general-physics 94.3 Michael-Hammond room-200
+mechanic-design 93.2 Tyler-David room-402
+microcomputer-control-technology 83.9 Laurie-Skinner room-405
+military-theory 90.9 Matthew-Stark room-801
+principle-of-microcomputer 66.7 Stephen-Hunt room-100
+principle-of-sensing-device 92.0 Dr.-Steven-Robinson room-703
+probability-theory-stochastic-process 78.0 Ryan-Taylor room-606
+pulse---numerical-circuitry 81.9 Lance-Gray room-708
+python 63.3 Noah-Hensley room-409
+specialty-english 98.6 Brad-Lindsey room-805
+television-operation 84.3 Matthew-Warren room-708
+null 0 null null
+activity-2 2
+activity-3 1
+null 0
+786275 Henry-Mcdonald cs male 1999 2020
+advanced-mathematics 82.4 David-Pierce room-309
+college-physics 61.9 Jack-Jenkins room-504
+computer-interface-technology 97.4 Ashley-Griffin room-108
+digital-electronics 95.9 Gregory-Smith room-704
+economy-of-capitalism 76.9 Ian-Hernandez room-111
+electrical-engineering-practice 77.1 William-Sullivan room-212
+functions-of-complex-variables-integral-transformations 60.2 Melissa-Lopez room-512
+general-physics 90.2 Jennifer-Conley room-800
+introduction-to-reliability-technology 62.0 Connor-Miller room-402
+linear-algebra 87.3 Dennis-Morgan room-904
+math 68.5 Jennifer-Fernandez room-306
+microwave-technique 63.4 Marc-Fuller room-301
+military-theory 98.2 Leslie-Townsend room-806
+moving-communication 98.9 Joshua-Hernandez room-805
+principle-of-marxism 89.9 Kevin-Hampton room-910
+principle-of-microcomputer 62.7 Patricia-Hughes room-102
+principle-of-sensing-device 89.9 Veronica-Larsen room-703
+principle-of-single-chip-computer 79.2 Christopher-Lowery room-112
+probability-theory-stochastic-process 65.2 John-Hayden room-203
+pulse---numerical-circuitry 89.7 Justin-Barr room-807
+satellite-communications 78.7 Rodney-Pope room-210
+television-operation 67.2 Victoria-Ward room-903
+null 0 null null
+class-meeting-2 3
+null 0
+823858 Keith-Gomez cs female 1998 2020
+signal-linear-system 95.3 Sarah-Wilson room-804
+null 0 null null
+class-meeting-2 3
+activity-1 3
+class-meeting-1 3
+null 0
+887840 Mitchell-Miller cs male 1998 2020
+algorithmic-language 86.8 Linda-Olson room-901
+automatic-control-system 61.8 Edward-Brooks room-711
+college-physics 91.0 Robert-Beard room-407
+computer-interface-technology 86.4 Melissa-Young room-904
+c-language 81.2 Richard-Tapia room-601
+digital-electronics 77.5 Lori-Irwin room-902
+experiment-of-microcomputer 60.4 Sherry-Ramirez room-101
+fiber-optical-communication-system 67.0 Nicholas-Roberson room-708
+general-physics 77.8 Suzanne-Spencer room-212
+industrial-enterprise-management 86.4 Crystal-Hall room-606
+linear-algebra 87.6 Courtney-Baker room-810
+math 80.5 Dr.-Michael-Rodriguez room-503
+mechanical-graphing 88.8 Kevin-Mcpherson room-811
+mechanic-design 69.5 Douglas-Howard room-502
+operational-research 71.3 William-Mccarty room-512
+principle-of-communication 70.0 Amanda-Mitchell room-804
+principle-of-microcomputer 88.9 Samantha-Smith room-511
+principle-of-single-chip-computer 76.7 Andrew-Hamilton-Jr. room-306
+probability-theory-stochastic-process 66.3 Jorge-Anderson room-912
+procedure-control 69.4 Kenneth-Baldwin room-709
+satellite-communications 82.1 Laurie-Campbell room-904
+television-operation 94.5 Shelley-Stevenson-MD room-507
+null 0 null null
+class-meeting-1 3
+class-meeting-2 1
+activity-2 2
+null 0
+929086 Timothy-Ramos cs female 2000 2020
+basis-of-software-technique 70.5 Jacob-Sandoval room-103
+null 0 null null
+class-meeting-3 1
+null 0
+759410 Scott-Rodriguez cs female 1999 2020
+automatic-control-system 86.6 Renee-George room-209
+automatic-control-theory 68.6 Derek-Jacobs room-705
+basis-of-software-technique 98.0 Ashley-Mills room-409
+circuitry 95.7 Sierra-Beard room-212
+college-english-test-(band4) 94.5 Nicholas-Green room-402
+college-english-test-(band6) 63.3 Dr.-Jennifer-Arnold room-707
+computer-interface-technology 91.7 Stanley-Greer room-306
+c-language 98.6 Donald-Melton room-603
+economy-of-capitalism 89.7 Megan-Morris room-802
+fundamentals-of-law 72.3 Michael-Harvey room-702
+linear-algebra 65.6 Christopher-Boyer room-404
+microwave-technique 78.1 Mark-Adams room-806
+principle-of-marxism 68.5 Rebecca-Stewart room-409
+principle-of-single-chip-computer 75.3 Vanessa-Moran room-304
+procedure-control 92.6 Jimmy-Ramsey room-812
+null 0 null null
+activity-2 2
+class-meeting-1 1
+class-meeting-2 1
+activity-1 2
+null 0
+770421 Samantha-Harvey cs female 2002 2020
+automatic-control-theory 81.7 Scott-Wells room-200
+circuit-measurement-technology 70.5 Joshua-Velasquez room-508
+c-language 98.1 Bailey-Hale room-406
+digital-signal-processing 71.6 Daniel-Elliott room-612
+electrical-engineering-practice 76.0 Lori-Brooks room-501
+electromagnetic-fields---magnetic-waves 63.3 Jordan-Hayden room-109
+fiber-optical-communication-system 86.0 Peggy-Hudson room-700
+functions-of-complex-variables-integral-transformations 99.9 Randy-Montgomery room-608
+fundamentals-of-law 90.9 Danielle-Coleman room-911
+information-searches 81.7 Vickie-Fitzpatrick room-809
+linear-algebra 98.6 Derrick-Cuevas room-611
+optimum-control 73.4 Veronica-Chandler room-106
+principle-of-communication 93.9 Nicole-Whitaker room-406
+principle-of-marxism 73.6 Ronald-Hill room-608
+principle-of-mechanic 67.2 Heather-Kelly room-401
+probability-theory-stochastic-process 74.1 Matthew-Hicks room-811
+pulse---numerical-circuitry 66.2 Ryan-Brown room-611
+satellite-communications 64.7 Anne-Howe room-507
+null 0 null null
+class-meeting-2 3
+class-meeting-1 2
+activity-3 2
+null 0
+777109 Devin-Andrews cs female 2000 2020
+circuitry 94.4 Michael-Kim room-403
+computational-method 61.9 Danielle-Hernandez room-804
+experiment-in-electronic-circuitry 65.2 Amy-Lara room-104
+military-theory 97.1 Mark-Thompson room-603
+principle-of-single-chip-computer 66.9 William-Taylor room-305
+null 0 null null
+class-meeting-1 1
+activity-2 2
+class-meeting-3 2
+class-meeting-2 3
+null 0
+778651 Heather-Deleon cs male 1999 2020
+basis-of-software-technique 72.4 Kent-Richardson room-710
+null 0 null null
+activity-2 2
+class-meeting-2 2
+class-meeting-3 3
+class-meeting-1 1
+null 0
+784384 Sandra-Rodriguez cs female 2002 2020
+advanced-mathematics 64.3 Elizabeth-Serrano room-710
+automatic-control-theory 79.4 Joan-Johnson room-903
+circuitry 62.4 Brooke-Wong room-604
+college-english 90.3 Kristen-Hayden room-906
+college-english-test-(band4) 78.1 Amy-Black room-609
+college-english-test-(band6) 85.7 Diane-Schwartz room-805
+computer-interface-technology 93.6 Blake-Nichols room-109
+digital-electronics 81.5 Alyssa-Olson room-501
+digital-image-processing 70.7 Charles-Wilkinson room-606
+economy-of-capitalism 77.7 Norman-Garcia room-811
+electrical-engineering-practice 79.9 Paul-Hernandez room-902
+experiment-of-college-physics 84.2 Matthew-Torres room-608
+experiment-of-microcomputer 77.2 Kiara-Ray room-712
+math 74.8 Charles-Foster room-412
+metalworking-practice 72.7 Kevin-Reyes room-601
+microcomputer-control-technology 95.2 Steven-Guzman room-308
+principle-of-communication 88.9 Jacob-Nelson room-405
+principle-of-sensing-device 62.4 Henry-Williams room-407
+principle-of-single-chip-computer 66.1 Ashley-Wilson room-201
+pulse---numerical-circuitry 79.0 Kyle-Ray room-307
+null 0 null null
+class-meeting-1 2
+class-meeting-2 3
+activity-2 3
+activity-3 3
+null 0
+789111 Ryan-Campbell cs male 2000 2020
+advanced-mathematics 97.9 Laurie-Ramirez room-708
+algorithmic-language 98.2 Donald-Edwards room-308
+college-english-test-(band6) 93.9 Cindy-Morrison room-801
+graduation-thesis 73.7 Angela-Perry room-802
+lab-of-general-physics 67.7 Timothy-Carlson room-404
+linear-algebra 84.8 Christina-Blair room-509
+specialty-english 76.4 Michelle-Ware room-912
+null 0 null null
+class-meeting-2 1
+activity-3 2
+class-meeting-3 3
+null 0
+789785 Austin-Johnson cs female 2003 2020
+automatic-control-theory 90.2 Eileen-Davis room-605
+basis-of-software-technique 85.2 Joshua-Coleman room-807
+college-english 98.0 Jamie-Walker room-209
+computational-method 63.5 Karen-Browning room-910
+c-language 79.3 Shawn-Mckinney room-205
+digital-image-processing 80.7 Gina-Martinez room-401
+digital-signal-processing 65.2 Patricia-Thompson room-801
+economy-of-capitalism 96.5 Ian-Ayala room-712
+experiment-of-college-physics 96.8 Luis-Rivera room-300
+experiment-of-microcomputer 61.6 Tiffany-Gonzales room-512
+functions-of-complex-variables-integral-transformations 93.3 John-Wilkinson room-109
+general-physics 72.0 Brenda-Murphy room-712
+graduation-thesis 63.8 Jerry-Smith room-609
+introduction-to-reliability-technology 97.3 Robert-Wells room-403
+mechanical-graphing 91.0 Tammy-Mendez room-701
+mechanic-design 84.3 Mary-Eaton room-706
+microcomputer-control-technology 95.3 Amy-Duke room-901
+microwave-technique 88.7 Stephanie-Mann room-506
+operational-research 65.5 Jessica-Martin room-409
+optimum-control 79.9 Thomas-Gray room-601
+principle-of-mechanic 79.2 Patty-Rojas room-109
+principle-of-sensing-device 77.5 Joy-Howell room-603
+procedure-control 67.2 Felicia-Frazier room-511
+pulse---numerical-circuitry 60.6 Linda-Williams room-802
+null 0 null null
+activity-2 1
+class-meeting-3 1
+null 0
+817621 Angela-Foster cs female 1998 2020
+algorithmic-language 93.1 Richard-Hawkins room-611
+digital-image-processing 97.6 William-Cortez room-208
+math 92.4 Shannon-Cook room-709
+python 94.7 Mario-Allen room-111
+null 0 null null
+activity-2 1
+activity-3 3
+null 0
+829732 Aimee-Barnett cs female 1998 2020
+algorithmic-language 72.7 Stacy-Morales room-903
+auto-measurement-technique 75.5 Dawn-Erickson room-104
+digital-image-processing 79.0 Crystal-Rogers room-908
+electrical-engineering-practice 78.0 Jennifer-Taylor room-305
+experiment-of-college-physics 80.6 Gloria-Flores room-503
+fiber-optical-communication-system 97.0 Suzanne-Owens room-308
+fundamentals-of-law 71.9 Yvonne-Brown room-209
+industrial-enterprise-management 61.2 Larry-Andrews room-602
+metalworking-practice 67.5 Philip-Perez room-408
+optimum-control 72.8 Corey-Williams room-502
+principle-of-communication 84.1 Robert-Jackson room-509
+signal-linear-system 84.8 Douglas-Myers room-508
+null 0 null null
+class-meeting-1 3
+null 0
+832632 Sandra-Moon cs male 2001 2020
+college-english-test-(band6) 80.8 David-Evans room-408
+probability-theory-stochastic-process 74.0 Bryan-Mack room-106
+null 0 null null
+activity-2 1
+null 0
+874582 Stephanie-Solis cs male 2002 2020
+circuit-measurement-technology 90.6 Kyle-Griffith room-810
+metalworking-practice 78.9 Joshua-Scott room-612
+principle-of-mechanic 77.2 Carly-Morris room-205
+procedure-control 75.5 Amanda-Johnson room-812
+null 0 null null
+activity-2 2
+class-meeting-3 1
+class-meeting-1 1
+null 0
+903557 Hannah-Williams cs female 2001 2020
+advanced-mathematics 97.7 Nicole-Sharp room-907
+automatic-control-system 73.9 Dr.-Eric-Gay room-608
+automatic-control-theory 84.0 Jose-Nelson room-507
+college-english 63.9 Randy-Johnson room-105
+computational-method 71.6 Jillian-Leblanc-MD room-508
+electrical-engineering-practice 86.6 Susan-Mueller room-810
+experiment-of-microcomputer 83.3 Dr.-Jack-Molina room-507
+introduction-to-reliability-technology 97.4 Dr.-Jay-Simmons-IV room-507
+math 76.9 Nicole-Cooper room-412
+mechanic-design 79.9 Andrew-Bradford-Jr. room-108
+principle-of-marxism 68.4 Jacqueline-Vega room-801
+signal-linear-system 74.2 Devin-Fischer room-302
+television-operation 98.6 Kristi-Murphy room-809
+null 0 null null
+activity-1 2
+class-meeting-3 2
+activity-2 2
+activity-3 3
+null 0
+911616 Kristina-Johnson cs female 2001 2020
+auto-measurement-technique 63.7 William-Rosales room-902
+circuitry 92.1 Douglas-Williams room-305
+college-english-test-(band6) 64.8 Robert-Hill room-807
+digital-electronics 68.6 Aaron-Chen room-901
+digital-image-processing 67.7 Michael-Martin room-412
+fundamentals-of-law 70.1 Sara-Brown room-710
+general-physics 65.7 Yolanda-Perez room-604
+graduation-thesis 76.6 Maria-Andrade room-105
+linear-algebra 97.9 Joseph-Johnson room-509
+mechanic-design 68.9 Robert-Floyd room-502
+metalworking-practice 65.4 Samantha-Fleming room-811
+moving-communication 75.1 Steven-Cordova room-404
+operational-research 92.0 Tracey-Tyler room-502
+optimum-control 95.0 Adam-Garcia room-112
+principle-of-communication 98.4 Sandra-Davis room-703
+principle-of-mechanic 68.3 Victor-Grant room-910
+principle-of-sensing-device 79.3 Cody-Castro room-210
+pulse---numerical-circuitry 85.5 Joshua-Torres room-407
+null 0 null null
+class-meeting-1 1
+class-meeting-2 2
+null 0
+914516 Emily-Pacheco cs male 2002 2020
+automatic-control-system 99.9 Becky-Johnson room-411
+auto-measurement-technique 84.1 Katherine-Davis room-902
+basis-of-software-technique 98.6 Jennifer-Mullins room-308
+circuit-measurement-technology 77.6 Jeffrey-Mooney room-408
+college-physics 89.9 Ricardo-Griffin room-707
+digital-signal-processing 93.2 Jennifer-Bean room-600
+electromagnetic-fields---magnetic-waves 93.2 Isaiah-Nichols room-609
+experiment-of-microcomputer 93.8 Catherine-Stevens-MD room-604
+fiber-optical-communication-system 87.2 Jacob-Chan room-508
+functions-of-complex-variables-integral-transformations 84.6 Gabriel-Huff room-108
+graduation-thesis 92.6 Devin-Graham room-202
+linear-algebra 95.1 Stephen-Smith room-905
+principle-of-mechanic 90.3 James-Flores room-110
+procedure-control 71.0 Dr.-Krista-Fisher room-302
+pulse---numerical-circuitry 77.3 Walter-Benson room-810
+semiconductor-converting-technique 82.3 Autumn-Reed room-512
+null 0 null null
+class-meeting-3 1
+class-meeting-2 2
+activity-3 1
+null 0
+947441 Diane-Mcbride cs male 1999 2020
+automatic-control-system 69.0 Wanda-Edwards room-908
+college-english-test-(band4) 61.1 Olivia-Wilcox room-910
+college-english-test-(band6) 65.5 Diane-Miller room-611
+computational-method 63.4 Ruben-Scott room-212
+computer-interface-technology 61.6 Darlene-Rogers room-806
+c-language 87.5 Angela-Carr room-500
+functions-of-complex-variables-integral-transformations 62.4 Erica-Eaton room-301
+fundamentals-of-law 92.0 Heather-Bailey room-707
+microcomputer-control-technology 70.9 Nancy-Walker room-504
+optimum-control 77.9 Jessica-Zimmerman room-904
+principle-of-sensing-device 78.3 Blake-Garner room-301
+probability-theory-stochastic-process 74.1 Alyssa-Schultz room-706
+procedure-control 88.3 Kyle-Singh room-505
+null 0 null null
+class-meeting-2 3
+activity-1 3
+activity-3 3
+null 0
+971809 Debra-Cooper cs male 1999 2020
+automatic-control-system 99.0 James-Smith room-405
+automatic-control-theory 88.3 Brett-Ortiz room-905
+circuitry 69.9 Cynthia-Greene room-603
+college-english 90.4 Richard-Hernandez-DDS room-801
+college-physics 60.9 Christopher-Wilson room-910
+computational-method 68.6 Morgan-Lawson room-106
+computer-interface-technology 94.1 Victoria-Lopez room-210
+fiber-optical-communication-system 96.0 Kimberly-Jackson room-508
+functions-of-complex-variables-integral-transformations 86.3 Amanda-Barton room-811
+fundamentals-of-law 83.6 Michelle-Clark room-407
+lab-of-general-physics 66.2 Sarah-Rodriguez room-709
+math 85.1 Angela-Clark room-408
+operational-research 60.7 Richard-Wood-DDS room-809
+principle-of-communication 68.0 Brenda-Richardson room-707
+procedure-control 78.8 Sarah-Gregory-DVM room-211
+television-operation 80.1 Lisa-Fisher room-604
+null 0 null null
+activity-3 2
+null 0
+987979 Kathy-Romero cs female 1998 2020
+automatic-control-system 73.6 Jesus-Smith room-100
+automatic-control-theory 94.5 Matthew-Montgomery room-404
+circuitry 66.9 Sara-Stephens room-610
+college-english-test-(band6) 84.6 Christina-Smith room-312
+college-physics 75.3 Brandi-Mcdonald room-903
+digital-image-processing 99.7 Eric-Owen room-800
+digital-signal-processing 87.9 Jeffery-Marshall room-712
+experiment-of-college-physics 64.8 Robert-Bentley room-505
+experiment-of-microcomputer 99.8 Alex-Mccormick room-406
+functions-of-complex-variables-integral-transformations 96.9 Michael-Rowe room-207
+linear-algebra 95.8 Lisa-James room-506
+metalworking-practice 63.7 Terri-Bailey room-608
+military-theory 63.7 Victoria-Schroeder room-111
+operational-research 85.3 Jordan-Cooper room-309
+principle-of-mechanic 70.4 Angela-Carter room-504
+principle-of-microcomputer 92.1 Christopher-Porter room-205
+semiconductor-converting-technique 86.7 Bethany-Harris room-909
+signal-linear-system 81.3 Deborah-Becker room-410
+null 0 null null
+activity-3 2
+class-meeting-1 1
+activity-2 3
+class-meeting-2 1
+null 0
+988037 Victoria-Mercer cs female 1998 2020
+analogical-electronics 61.2 Adam-Donovan room-308
+auto-measurement-technique 63.8 Christian-Martinez room-206
+general-physics 96.3 Rachel-Martin room-811
+moving-communication 86.4 Brad-Patel room-603
+null 0 null null
+class-meeting-3 2
+activity-3 1
+activity-1 3
+null 0
+989887 Benjamin-Reynolds cs male 1998 2020
+algorithmic-language 83.9 Alexander-Ramsey room-912
+college-english 97.6 Lindsey-Reynolds room-401
+college-english-test-(band6) 80.9 Ruth-Allen room-309
+digital-image-processing 64.3 Chelsey-Butler room-909
+experiment-of-college-physics 96.7 Trevor-Hill room-104
+fiber-optical-communication-system 98.8 Shannon-Herrera room-500
+functions-of-complex-variables-integral-transformations 89.7 Amanda-Meyer room-305
+graduation-thesis 88.4 Mitchell-Mckee room-504
+industrial-enterprise-management 92.0 Dana-Gomez room-402
+information-searches 81.3 Sandra-Robertson room-503
+introduction-to-reliability-technology 63.4 Sarah-Johnson room-803
+linear-algebra 85.5 Dwayne-Gilbert room-312
+math 77.8 Stephanie-Marsh room-911
+microwave-technique 90.0 John-Copeland room-408
+military-theory 94.9 Louis-Lewis room-903
+principle-of-single-chip-computer 73.0 Deborah-Anderson room-402
+procedure-control 83.7 Mckenzie-Reese room-310
+null 0 null null
+class-meeting-2 1
+activity-1 3
+class-meeting-3 3
+activity-2 3
+null 0
+994621 Cassie-Holden cs female 2001 2020
+algorithmic-language 95.2 Jacqueline-Strong room-102
+auto-measurement-technique 67.4 Kelly-Rowe room-612
+circuitry 73.0 Karen-Myers room-606
+college-english-test-(band4) 70.1 Nancy-Avila room-211
+college-english-test-(band6) 83.4 Carolyn-James room-309
+college-physics 66.9 Amy-Douglas room-211
+computational-method 77.3 Christine-Mckay room-109
+functions-of-complex-variables-integral-transformations 90.8 Emily-Watts room-704
+industrial-enterprise-management 97.6 Adriana-Owens room-607
+linear-algebra 62.7 Elizabeth-Santiago room-808
+metalworking-practice 65.6 Cassie-Adams room-811
+microcomputer-control-technology 96.7 Jason-Robbins room-900
+military-theory 85.4 Elizabeth-Mitchell room-310
+operational-research 96.8 Anthony-Gonzalez room-104
+optimum-control 94.5 Dr.-Angela-Davis room-309
+principle-of-marxism 79.5 Jessica-Thompson room-504
+principle-of-mechanic 71.3 Elizabeth-Davis room-702
+principle-of-microcomputer 73.0 Jonathan-Chavez room-105
+principle-of-sensing-device 66.5 Alicia-Savage room-803
+principle-of-single-chip-computer 82.7 Katherine-Spencer room-202
+probability-theory-stochastic-process 92.5 Jacob-Berg room-205
+pulse---numerical-circuitry 61.1 Erica-Garza room-909
+signal-linear-system 63.8 James-Serrano room-707
+null 0 null null
+class-meeting-1 1
+activity-3 3
+null 0

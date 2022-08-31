@@ -1,0 +1,78 @@
+let i = 0
+for (const student of students) {
+i += 1
+student["name"] = student["name"].replaceAll("-", " ")
+let row = tBody.insertRow()
+row.insertCell().innerHTML = String(i)
+row.insertCell().innerHTML = student["key"]
+row.insertCell().innerHTML = student["name"]
+row.insertCell().innerHTML = student["gender"]
+row.insertCell().innerHTML = student["profession"]
+row.insertCell().innerHTML = student["birth_year"]
+row.insertCell().innerHTML = student["enrollment_year"]
+let btn = document.createElement("button")
+btn.innerText = "detail"
+row.insertCell().appendChild(btn)
+btn.onclick = function () {
+div.innerHTML = ""
+div.style.display = "block"
+let message = document.createElement("p")
+div.appendChild(message)
+message.innerHTML =
+"<h1 style='text-align: center'>详细信息</h1>" +
+"学号：" + student["key"] + "<br>" +
+"姓名：" + student["name"] + "<br>" +
+"性别：" + student["gender"] + "<br>" +
+"专业：" + student["profession"] + "<br>" +
+"出生年份：" + student["birth_year"] + "<br>" +
+"入学年份：" + student["enrollment_year"] + "<br>"
+if (student["Lessons"].length !== 0) {
+div.innerHTML += "<h2>课程信息</h2>"
+let lesson_table = document.createElement("table")
+div.appendChild(lesson_table);
+let row = lesson_table.insertRow()
+for (const type of ["编号", "课程", "成绩", "学分", "老师", "位置", "课程类型", "网站"]) {
+row.insertCell().innerHTML = type
+}
+for (const lesson of student["Lessons"]) {
+let row = lesson_table.insertRow()
+row.insertCell().innerHTML = lesson["num"]
+row.insertCell().innerHTML = lesson["name"]
+row.insertCell().innerHTML = lesson["grade"]
+row.insertCell().innerHTML = lesson["credit"]
+row.insertCell().innerHTML = lesson["teacher"]
+row.insertCell().innerHTML = lesson["address"]
+row.insertCell().innerHTML = lesson["type"]
+row.insertCell().innerHTML = "<a href='" + lesson["url"] + "'>链接</a>"
+}
+if (student["lesson-ave"] > 0) {
+let info = document.createElement("p")
+info.innerHTML =
+"平均分：" + student["lesson-ave"].toFixed(1) + " "
++ "最高分：" + student["lesson-max"].toFixed(1) + " "
++ "最低分：" + student["lesson-min"].toFixed(1) + "<br>"
+div.appendChild(info)
+}
+}
+if (student["Activities"].length > 0) {
+let info = document.createElement("p")
+div.appendChild(info)
+info.innerHTML = "<h2>参与活动</h2>"
+for (const i in student["Activities"]) {
+info.innerHTML += String(Number(i) + 1) + ". " + student["Activities"][i] +
+"<br>"
+}
+info.innerHTML += "<strong>总综测分：</strong>" + student["sum-of-score"]
+}
+div.appendChild(close)
+
+}
+}
+}
+</script>
+</head>
+
+<body>
+</body>
+
+</html>
